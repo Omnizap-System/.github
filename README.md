@@ -1,6 +1,6 @@
-# Omnizap System Organization Profile
+# Perfil da Organização Omnizap System
 
-This repository manages the public organization profile shown at:
+Este repositório gerencia o perfil público da organização exibido em:
 https://github.com/Omnizap-System
 
-Profile content is stored in `profile/README.md`.
+O conteúdo do perfil está em `profile/README.md`.
